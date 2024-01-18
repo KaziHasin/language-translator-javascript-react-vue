@@ -35,7 +35,7 @@ Make sure your api key set in the.env file in the react and vue apps and the scr
 I'm a full-stack developer with 3 years of experience.
 
 
-## follow moy blog 
+## follow my blog 
 https://missionaryzeal.com/
 
 ## Authors
