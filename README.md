@@ -1,5 +1,5 @@
 
-# Laguage translator same app using JavaScript, React  and Vue
+# A language translator made the same app using JavaScript, React, and Vue.
 
 This repository contains three separate applications for language translation implemented in JavaScript, React, and Vue. The language translation is powered by the Rapid API: Rapid Translate Multi Traduction.
 
